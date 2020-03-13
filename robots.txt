@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saisahkoh.witieko.cn/sitemap.xml
